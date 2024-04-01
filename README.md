@@ -1,5 +1,5 @@
 # SQL-Leet
-SQL 50 
+SQL 50
 
 
 
